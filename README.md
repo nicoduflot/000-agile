@@ -14,6 +14,11 @@
 * [Alliance agile](https://agilealliance.org/)
 * [Coach Agile](https://coach-agile.com/)
 
+## Vision
+* [Online Lean canvas](https://leanstack.com/)
+* [Elevator Statement Magnetic way](https://www.magneticway.com/ventes/elevator-pitch/)
+* [Elevator Statement Magnetic Asana](https://asana.com/fr/resources/elevator-pitch-examples)
+
 ## Artefacts
 
 ### Tableaux et suivi agile
