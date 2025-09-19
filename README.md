@@ -26,6 +26,7 @@
 * [Trello](https://trello.com/)
 * [Icescrum](https://www.icescrum.com/fr/)
 * [Monday](https://monday.com/lang/fr)
+* [Easy Backlog : github open source pour l'installer en local](https://github.com/mattheworiordan/easybacklog)
 
 ## Cérémonies Agiles
 
