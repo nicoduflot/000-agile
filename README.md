@@ -4,8 +4,8 @@
 
 ## Scrum Guides
 
-* En [français](./documents/2020-Scrum-Guide-French.pdf)
-* In [english](./documents/2020-Scrum-Guide-US.pdf)
+* En [français](./documents/scrum/2020-Scrum-Guide-French.pdf)
+* In [english](./documents/scrum/2020-Scrum-Guide-US.pdf)
 * [Toutes les langues dans la dernière version](https://scrumguides.org/download.html)
 
 ## Sites Agiles
@@ -31,6 +31,7 @@
 
 ### Sprint planning
 * [Online Poker planning](https://www.scrumpoker-online.org/en/)
+* [Cartes poker planning](./documents/sprint/cartes.pdf)
 
 ### Daily
 
@@ -41,6 +42,7 @@
 ### Sprint retrospective
 
 * [Open Serious Game](https://openseriousgames.org/)
+* [Livret serious game par coach agile](./documents//sprint/SERIOUS-GAME-RECUEIL-AGILE.pdf)
 
 ## S'améliorer
 * [Entrainement aux certification sur scrum.org](https://www.scrum.org/open-assessments/)
