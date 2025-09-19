@@ -49,3 +49,8 @@
 * [Entrainement aux certification sur scrum.org](https://www.scrum.org/open-assessments/)
 * [Entraînement PSM 1](https://www.thescrummaster.co.uk/assessments/professional-scrum-master-i-psm-i-practice-assessment/)
 * [Entraînement PSM 1](https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/)
+
+
+### Certifications
+
+* [Comment j'ai passé la PSPO](https://www.scrum.org/forum/scrum-forum/34348/how-i-prepared-and-passed-pspo-i-assessment)
