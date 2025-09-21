@@ -1,0 +1,27 @@
+Exemple création d'une roadmap selon un besoin exprimé en atelier de expression du besoin.
+
+Application : 
+
+Besoin exprimé : 
+	Application smartphone qui permet de localiser les parkings payants autour de l'utilisateur
+	
+	Fonctionnalités essentielles pour une 1ère version (3)
+	
+		- Geolocalisation (GPS) de l'utilisateur
+		- Parkings payants à proximités
+		- Itinéraire suivi Gps depuis l'endroit du l'utilisateur vers le parking sélection
+		
+		Objectifs étendus
+		
+		- Nombre de places libres des parkings alentour
+	
+	V 2
+	
+		- Compte utilisateur
+		- Zones de parking payantes et gratuites et interdites sur la carte gps
+		- Condition et tarifs des parkings
+		
+		Objectifs étendus
+		
+		- Abonnement des parkings dans l'appli
+		- Réservation - paiement à distance
