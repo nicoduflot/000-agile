@@ -1,6 +1,6 @@
 # Agile, documentation complémentaire pour les stagiaires
 
-📌 Dépôt de ressources complémentaires pour mes formations en gestion de projet agile.  
+Dépôt de ressources complémentaires pour mes formations en gestion de projet agile.  
 L’objectif est de fournir aux apprenants :  
 - des définitions claires,  
 - des templates et exemples concrets,  
@@ -8,13 +8,13 @@ L’objectif est de fournir aux apprenants :
 
 ---
 
-## 🗺️ Parcours Agile  
+## Parcours Agile  
 
-👉 Voir le fichier [parcours.md](parcours.md) pour une vue d’ensemble du chemin suivi en formation.  
+Voir le fichier [parcours.md](parcours.md) pour une vue d’ensemble du chemin suivi en formation.  
 
 ---
 
-## 📚 Ressources disponibles  
+## Ressources disponibles  
 
 - **Rôles** : [Product Owner](roles/product-owner.md), [Scrum Master](roles/scrum-master.md), [Développeurs](roles/developpeurs.md)  
 - **Artefacts** : [Vision](artefacts/vision.md), [Backlog](artefacts/backlog.md), [User Story](artefacts/user-story.md), etc.  
@@ -24,11 +24,12 @@ L’objectif est de fournir aux apprenants :
 
 ---
 
-## 📖 Glossaire  
+## Glossaire  
 
-👉 Voir le fichier [glossaire.md](glossaire.md) pour une définition rapide des principaux termes.  
+Voir le fichier [glossaire.md](glossaire.md) pour une définition rapide des principaux termes.  
 
 ---
 
-## 🔗 Ressources externes  
+## Ressources   
 
+Voir le fichier [ressources.md](./ressources.md)

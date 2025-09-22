@@ -3,6 +3,8 @@
 Ce fichier décrit le chemin suivi dans mes formations.  
 Il permet de relier chaque **concept** ou **artefact** à une étape précise du parcours agile.  
 
+Vision → Besoin → Backlog → Sprint Backlog → Sprint → Incrément → Review → Rétrospective → retour vers Backlog.
+
 ---
 
 ## 1️⃣ Vision  
@@ -43,7 +45,7 @@ Il permet de relier chaque **concept** ou **artefact** à une étape précise du
 - **Sprint Review** → livrer de la valeur et recueillir du feedback  
 - **Rétrospective** → améliorer la collaboration  
 
-👉 Voir le dossier [ceremonies/](ceremonies)  
+Voir le dossier [ceremonies/](ceremonies)  
 
 ---
 
