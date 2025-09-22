@@ -1,56 +1,34 @@
 # Agile, documentation complémentaire pour les stagiaires
 
-[Manifeste agile](https://agilemanifesto.org/iso/fr/manifesto.html)
+📌 Dépôt de ressources complémentaires pour mes formations en gestion de projet agile.  
+L’objectif est de fournir aux apprenants :  
+- des définitions claires,  
+- des templates et exemples concrets,  
+- des repères sur *quand utiliser quoi* dans le parcours agile.  
 
-## Scrum Guides
+---
 
-* En [français](./documents/scrum/2020-Scrum-Guide-French.pdf)
-* In [english](./documents/scrum/2020-Scrum-Guide-US.pdf)
-* [Toutes les langues dans la dernière version](https://scrumguides.org/download.html)
+## 🗺️ Parcours Agile  
 
-## Sites Agiles
+👉 Voir le fichier [parcours.md](parcours.md) pour une vue d’ensemble du chemin suivi en formation.  
 
-* [Scrum.org](https://www.scrum.org)
-* [Alliance agile](https://agilealliance.org/)
-* [Coach Agile](https://coach-agile.com/)
+---
 
-## Vision
-* [Online Lean canvas](https://leanstack.com/)
-* [Elevator Statement Magnetic way](https://www.magneticway.com/ventes/elevator-pitch/)
-* [Elevator Statement Asana](https://asana.com/fr/resources/elevator-pitch-examples)
+## 📚 Ressources disponibles  
 
-## Artefacts
+- **Rôles** : [Product Owner](roles/product-owner.md), [Scrum Master](roles/scrum-master.md), [Développeurs](roles/developpeurs.md)  
+- **Artefacts** : [Vision](artefacts/vision.md), [Backlog](artefacts/backlog.md), [User Story](artefacts/user-story.md), etc.  
+- **Cérémonies** : [Sprint Planning](ceremonies/sprint-planning.md), [Daily Scrum](ceremonies/daily-scrum.md), [Rétrospective](ceremonies/retrospective.md)  
+- **Outils** : [Templates](outils/templates), [Exemples](outils/exemples)  
+- **Checklists** : [PO](checklists/po-checklist.md), [SM](checklists/sm-checklist.md), [Équipe](checklists/equipe-checklist.md)  
 
-### Tableaux et suivi agile
-* [Miro](https://miro.com/)
-* [Trello](https://trello.com/)
-* [Icescrum](https://www.icescrum.com/fr/)
-* [Monday](https://monday.com/lang/fr)
-* [Easy Backlog : github open source pour l'installer en local](https://github.com/mattheworiordan/easybacklog)
+---
 
-## Cérémonies Agiles
+## 📖 Glossaire  
 
-### Sprint planning
-* [Online Poker planning](https://www.scrumpoker-online.org/en/)
-* [Cartes poker planning](./documents/sprint/cartes.pdf)
+👉 Voir le fichier [glossaire.md](glossaire.md) pour une définition rapide des principaux termes.  
 
-### Daily
+---
 
+## 🔗 Ressources externes  
 
-### Sprint review
-* [Summerizing progress with parking lot diagrams](./documents/pilotage/summarizing_progress_with_parking_lot_diagrams.pdf)
-
-### Sprint retrospective
-
-* [Open Serious Game](https://openseriousgames.org/)
-* [Livret serious game par coach agile](./documents//sprint/SERIOUS-GAME-RECUEIL-AGILE.pdf)
-
-## S'améliorer
-* [Entrainement aux certification sur scrum.org](https://www.scrum.org/open-assessments/)
-* [Entraînement PSM 1](https://www.thescrummaster.co.uk/assessments/professional-scrum-master-i-psm-i-practice-assessment/)
-* [Entraînement PSM 1](https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/)
-
-
-### Certifications
-
-* [Comment j'ai passé la PSPO](https://www.scrum.org/forum/scrum-forum/34348/how-i-prepared-and-passed-pspo-i-assessment)
