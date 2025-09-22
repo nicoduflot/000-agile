@@ -1,63 +1,13 @@
-# [Nom de l’outil ou du concept]
+# Template : Product Backlog  
 
-## Définition
-[Décris en une ou deux phrases claires ce que c’est.]
+## Exemple de structure  
 
----
+| ID | User Story | Priorité | Estimation | Statut |
+|----|------------|----------|------------|--------|
+| 1  | En tant que [utilisateur], je veux [fonctionnalité] afin de [bénéfice] | Haute | 8 pts | À faire |
+| 2  | En tant que [utilisateur], je veux [fonctionnalité] afin de [bénéfice] | Moyenne | 5 pts | En cours |
+| 3  | En tant que [utilisateur], je veux [fonctionnalité] afin de [bénéfice] | Basse | 3 pts | Terminé |
 
-## Pourquoi c’est important ?
-- [Premier bénéfice]
-- [Deuxième bénéfice]
-- [Troisième bénéfice]
-
----
-
-## Rôle dans l’agilité  
-- À quoi ça sert ?  
-- Qui l’utilise ?  
-- Dans quelle phase ou cérémonie intervient-il ?  
-
----
-
-## Quand l’utiliser ?
-- [Moment ou contexte d’utilisation 1]
-- [Moment ou contexte d’utilisation 2]
-
----
-
-## Qui est impliqué ?
-- [Acteur 1 : rôle dans l’utilisation]
-- [Acteur 2 : rôle dans l’utilisation]
-
----
-
-## Exemple
-Mauvais exemple :  
-> [Exemple volontairement vague ou mal formulé]  
-
-Bon exemple :  
-> [Exemple précis, clair et vérifiable]  
-
----
-
-## Template associé  
-*(optionnel : lien vers `outils/templates/...`)*  
-
----
-
-## Erreurs fréquentes
-- [Erreur typique 1]
-- [Erreur typique 2]
-- [Erreur typique 3]
-
----
-
-## Pour aller plus loin
-- [Référence à un cadre ou une technique complémentaire]
-- [Lien vers un outil, modèle ou ressource externe]
-
----
-
-## Ressources complémentaires  
-- [Lien 1](http://exemple.com) — description courte  
-- [Lien 2](http://exemple.com) — description courte  
+## Notes  
+- Le backlog est un document vivant : il évolue tout au long du projet.  
+- Le PO est responsable de son contenu et de son ordre.  

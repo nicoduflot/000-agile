@@ -1,63 +1,43 @@
-# [Nom de l’outil ou du concept]
+# Scrum Master  
 
-## Définition
-[Décris en une ou deux phrases claires ce que c’est.]
-
----
-
-## Pourquoi c’est important ?
-- [Premier bénéfice]
-- [Deuxième bénéfice]
-- [Troisième bénéfice]
+## Définition  
+Le **Scrum Master (SM)** est le facilitateur de l’équipe Scrum.  
+Il aide à appliquer correctement le cadre Scrum, supprime les obstacles et favorise une culture de collaboration et d’amélioration continue.  
 
 ---
 
 ## Rôle dans l’agilité  
-- À quoi ça sert ?  
-- Qui l’utilise ?  
-- Dans quelle phase ou cérémonie intervient-il ?  
+- Garantit la bonne compréhension et l’application de Scrum.  
+- Aide l’équipe à s’auto-organiser.  
+- Supprime les obstacles qui freinent l’avancement.  
+- Facilite les cérémonies Scrum (Daily, Rétrospective, etc.).  
+- Accompagne le Product Owner dans la gestion du backlog.  
+- Encourage l’amélioration continue au sein de l’équipe.  
 
 ---
 
-## Quand l’utiliser ?
-- [Moment ou contexte d’utilisation 1]
-- [Moment ou contexte d’utilisation 2]
+## Quand l’utiliser / impliquer  
+- Dès le lancement du projet, pour mettre en place le cadre Scrum.  
+- Tout au long des sprints, pour faciliter et protéger l’équipe.  
+- Lors des cérémonies, en tant que facilitateur.  
+- Lorsqu’un obstacle ou un blocage empêche l’équipe d’avancer.  
 
 ---
 
-## Qui est impliqué ?
-- [Acteur 1 : rôle dans l’utilisation]
-- [Acteur 2 : rôle dans l’utilisation]
-
----
-
-## Exemple
-Mauvais exemple :  
-> [Exemple volontairement vague ou mal formulé]  
-
-Bon exemple :  
-> [Exemple précis, clair et vérifiable]  
+## Exemple concret  
+👉 Dans un projet de refonte de site web :  
+- Le Scrum Master veille à ce que la **Daily Scrum** reste courte et efficace.  
+- Il facilite la rétrospective et aide l’équipe à trouver une amélioration concrète.  
+- Il protège l’équipe des interruptions extérieures (direction, demandes urgentes).  
 
 ---
 
 ## Template associé  
-*(optionnel : lien vers `outils/templates/...`)*  
-
----
-
-## Erreurs fréquentes
-- [Erreur typique 1]
-- [Erreur typique 2]
-- [Erreur typique 3]
-
----
-
-## Pour aller plus loin
-- [Référence à un cadre ou une technique complémentaire]
-- [Lien vers un outil, modèle ou ressource externe]
+👉 Voir [retrospective-template.md](../outils/templates/retrospective-template.md) (à créer si besoin).  
 
 ---
 
 ## Ressources complémentaires  
-- [Lien 1](http://exemple.com) — description courte  
-- [Lien 2](http://exemple.com) — description courte  
+- [Scrum Guide – Rôle du Scrum Master](https://scrumguides.org/)  
+- [Scrum.org – Professional Scrum Master](https://www.scrum.org/roles/scrum-master)  
+- [Scrum Alliance – Scrum Master](https://www.scrumalliance.org/)  

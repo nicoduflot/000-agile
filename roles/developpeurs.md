@@ -1,63 +1,41 @@
-# [Nom de l’outil ou du concept]
+# Développeurs (Équipe de développement)  
 
-## Définition
-[Décris en une ou deux phrases claires ce que c’est.]
-
----
-
-## Pourquoi c’est important ?
-- [Premier bénéfice]
-- [Deuxième bénéfice]
-- [Troisième bénéfice]
+## Définition  
+Les **Développeurs** (ou équipe de développement) sont les membres de l’équipe Scrum qui créent le produit.  
+Ils possèdent toutes les compétences nécessaires pour transformer les éléments du backlog en incréments utilisables et de qualité.  
 
 ---
 
 ## Rôle dans l’agilité  
-- À quoi ça sert ?  
-- Qui l’utilise ?  
-- Dans quelle phase ou cérémonie intervient-il ?  
+- Auto-organisation : l’équipe décide elle-même comment atteindre les objectifs.  
+- Transforme les User Stories en fonctionnalités concrètes.  
+- Respecte la **Definition of Done** pour chaque livrable.  
+- Collabore étroitement avec le Product Owner et le Scrum Master.  
+- Participe activement aux cérémonies Scrum.  
 
 ---
 
-## Quand l’utiliser ?
-- [Moment ou contexte d’utilisation 1]
-- [Moment ou contexte d’utilisation 2]
+## Quand l’utiliser / impliquer  
+- Pendant le **Sprint Planning**, pour estimer et s’engager sur un objectif de sprint.  
+- Chaque jour lors du **Daily Scrum**, pour synchroniser l’avancement.  
+- À la **Sprint Review**, pour présenter le travail réalisé.  
+- En **Rétrospective**, pour proposer des améliorations de fonctionnement.  
 
 ---
 
-## Qui est impliqué ?
-- [Acteur 1 : rôle dans l’utilisation]
-- [Acteur 2 : rôle dans l’utilisation]
-
----
-
-## Exemple
-Mauvais exemple :  
-> [Exemple volontairement vague ou mal formulé]  
-
-Bon exemple :  
-> [Exemple précis, clair et vérifiable]  
+## Exemple concret  
+👉 Dans un projet de développement d’API :  
+- Les développeurs affinent les User Stories en tâches techniques.  
+- Ils estiment collectivement les efforts nécessaires.  
+- Ils livrent une API fonctionnelle à la fin du sprint, respectant la DoD.  
 
 ---
 
 ## Template associé  
-*(optionnel : lien vers `outils/templates/...`)*  
-
----
-
-## Erreurs fréquentes
-- [Erreur typique 1]
-- [Erreur typique 2]
-- [Erreur typique 3]
-
----
-
-## Pour aller plus loin
-- [Référence à un cadre ou une technique complémentaire]
-- [Lien vers un outil, modèle ou ressource externe]
+👉 Voir [definition-of-done.md](../artefacts/definition-of-done.md)  
 
 ---
 
 ## Ressources complémentaires  
-- [Lien 1](http://exemple.com) — description courte  
-- [Lien 2](http://exemple.com) — description courte  
+- [Scrum Guide – Rôle des Développeurs](https://scrumguides.org/)  
+- [Scrum.org – Developers](https://www.scrum.org/resources/who-are-developers)  
