@@ -8,7 +8,7 @@ Il permet de relier chaque **concept** ou **artefact** à une étape précise du
 ## 1️⃣ Vision  
 
 - Définir le **pourquoi** du projet.  
-- Document : [Vision](artefacts/vision.md)  
+- Document : [Vision](./artefacts/vision.md)  
 - Template : [vision-template.md](outils/templates/vision-template.md)  
 
 ---
