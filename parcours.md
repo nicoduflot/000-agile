@@ -3,7 +3,9 @@
 Ce fichier décrit le chemin suivi dans mes formations.  
 Il permet de relier chaque **concept** ou **artefact** à une étape précise du parcours agile.  
 
-Vision → Besoin → Backlog → Sprint Backlog → Sprint → Incrément → Review → Rétrospective → retour vers Backlog.
+Vision → Besoin → Roadmap → Backlog → Release Backlog → Sprint Backlog → Sprint → Incrément → Review → Rétrospective → retour vers Backlog.
+
+> ajouter entre besoin et backlog la roadmap et entre le backlog et le sprint backlog le release backlog
 
 ---
 

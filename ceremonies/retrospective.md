@@ -5,6 +5,8 @@ La **Sprint Retrospective** est la cérémonie de fin de sprint où l’équipe 
 
 Le Scrum Master observe et facilite la rétrospective : il aide l’équipe à identifier ce qui peut être amélioré, mais ce n’est pas lui qui décide. L’équipe reste libre de choisir ou non des actions à mettre en place, l’important est d’apprendre et de progresser ensemble
 
+Les ateliers utilisés pour cette cérémonie dépend de ce que le scrum master a observé durant le sprint : Intéraction humaine, delation MOE - MOE, etc.
+
 ---
 
 ## Objectif
