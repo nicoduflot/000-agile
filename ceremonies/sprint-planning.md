@@ -1,63 +1,53 @@
-# [Nom de l’outil ou du concept]
+# Sprint Planning
 
 ## Définition
-[Décris en une ou deux phrases claires ce que c’est.]
+Le **Sprint Planning** est la cérémonie d’ouverture d’un sprint.  
+Elle permet à l’équipe Scrum de définir ce qui sera réalisé pendant le sprint et comment ce travail sera accompli.  
 
 ---
 
-## Pourquoi c’est important ?
-- [Premier bénéfice]
-- [Deuxième bénéfice]
-- [Troisième bénéfice]
+## Objectif
+- Définir un **Sprint Goal** clair.  
+- Sélectionner les éléments du Product Backlog à réaliser.  
+- Découper ces éléments en tâches concrètes si nécessaire.  
+- Aligner toute l’équipe sur le plan de travail.  
 
 ---
 
-## Rôle dans l’agilité  
-- À quoi ça sert ?  
-- Qui l’utilise ?  
-- Dans quelle phase ou cérémonie intervient-il ?  
+## Règles
+- Se déroule au début du sprint.  
+- Le Product Owner présente les éléments prioritaires du backlog.  
+- L’équipe discute, estime et choisit ce qu’elle pense pouvoir livrer.  
+- Un **Sprint Goal** est défini collectivement.  
+- Le Sprint Backlog (ensemble des items retenus) est constitué.  
 
 ---
 
-## Quand l’utiliser ?
-- [Moment ou contexte d’utilisation 1]
-- [Moment ou contexte d’utilisation 2]
-
----
-
-## Qui est impliqué ?
-- [Acteur 1 : rôle dans l’utilisation]
-- [Acteur 2 : rôle dans l’utilisation]
+## Contenu
+- Présentation du Product Backlog par le Product Owner.  
+- Discussion sur les priorités et la faisabilité.  
+- Définition du Sprint Goal.  
+- Élaboration du Sprint Backlog (items + tâches).  
 
 ---
 
 ## Exemple
-Mauvais exemple :  
-> [Exemple volontairement vague ou mal formulé]  
-
-Bon exemple :  
-> [Exemple précis, clair et vérifiable]  
-
----
-
-## Template associé  
-*(optionnel : lien vers `outils/templates/...`)*  
+**Sprint Goal :** “Permettre la réinitialisation du mot de passe utilisateur.”  
+**Items sélectionnés :**  
+- Story 12 : page “Mot de passe oublié”.  
+- Story 13 : envoi e-mail de réinitialisation.  
+- Bug 45 : corriger la redirection post-connexion.  
 
 ---
 
-## Erreurs fréquentes
-- [Erreur typique 1]
-- [Erreur typique 2]
-- [Erreur typique 3]
+## Anti-pattern
+- Sprint sans objectif clair.  
+- Sprint surchargé par rapport à la vélocité de l’équipe.  
+- Le Product Owner impose le contenu au lieu de collaborer.  
+- Items sélectionnés trop gros et non affinés.  
 
 ---
 
-## Pour aller plus loin
-- [Référence à un cadre ou une technique complémentaire]
-- [Lien vers un outil, modèle ou ressource externe]
-
----
-
-## Ressources complémentaires  
-- [Lien 1](http://exemple.com) — description courte  
-- [Lien 2](http://exemple.com) — description courte  
+## Ressources
+- [Scrum Guide – Sprint Planning](https://scrumguides.org/)  
+- *Scrum.org – How to run Sprint Planning*  

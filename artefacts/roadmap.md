@@ -1,63 +1,53 @@
-# [Nom de l’outil ou du concept]
+# Roadmap
 
 ## Définition
-[Décris en une ou deux phrases claires ce que c’est.]
+La **roadmap** (feuille de route) est une représentation visuelle et temporelle des évolutions prévues pour un produit ou un projet.  
+Elle illustre les objectifs stratégiques, les grandes étapes et les livrables attendus, sans entrer dans un niveau de détail opérationnel comme le backlog.  
 
 ---
 
-## Pourquoi c’est important ?
-- [Premier bénéfice]
-- [Deuxième bénéfice]
-- [Troisième bénéfice]
+## Objectif
+- Donner une vision claire et partagée de l’évolution du produit.  
+- Aligner les parties prenantes sur les priorités et la direction.  
+- Faciliter la planification stratégique tout en restant adaptable.  
+- Communiquer les échéances et jalons importants.  
 
 ---
 
-## Rôle dans l’agilité  
-- À quoi ça sert ?  
-- Qui l’utilise ?  
-- Dans quelle phase ou cérémonie intervient-il ?  
+## Contenu
+Une roadmap peut inclure :
+- Les objectifs majeurs du produit (vision).  
+- Les thèmes ou **epics** regroupant plusieurs fonctionnalités.  
+- Des jalons ou livrables significatifs.  
+- Une projection temporelle (trimestres, releases, versions).  
+- Les dépendances ou contraintes connues.  
 
----
-
-## Quand l’utiliser ?
-- [Moment ou contexte d’utilisation 1]
-- [Moment ou contexte d’utilisation 2]
-
----
-
-## Qui est impliqué ?
-- [Acteur 1 : rôle dans l’utilisation]
-- [Acteur 2 : rôle dans l’utilisation]
+Caractéristiques importantes :
+- Elle est évolutive et mise à jour régulièrement.  
+- Elle ne doit pas être confondue avec un plan de projet figé.  
 
 ---
 
 ## Exemple
-Mauvais exemple :  
-> [Exemple volontairement vague ou mal formulé]  
+**Roadmap produit simplifiée (application mobile) :**
 
-Bon exemple :  
-> [Exemple précis, clair et vérifiable]  
-
----
-
-## Template associé  
-*(optionnel : lien vers `outils/templates/...`)*  
+- **T1 2025** : Authentification par e-mail et mot de passe.  
+- **T2 2025** : Fonctionnalité de réinitialisation du mot de passe + amélioration performance.  
+- **T3 2025** : Intégration d’un système de notifications push.  
+- **T4 2025** : Lancement version premium avec abonnement.  
 
 ---
 
 ## Erreurs fréquentes
-- [Erreur typique 1]
-- [Erreur typique 2]
-- [Erreur typique 3]
+- Considérer la roadmap comme un engagement contractuel au lieu d’une projection.  
+- Trop détailler la roadmap (devenir un backlog bis).  
+- Ne pas la mettre à jour quand les priorités changent.  
+- Ne pas l’aligner avec la vision produit.  
+- Vouloir figer toutes les dates dès le départ.  
 
 ---
 
-## Pour aller plus loin
-- [Référence à un cadre ou une technique complémentaire]
-- [Lien vers un outil, modèle ou ressource externe]
-
----
-
-## Ressources complémentaires  
-- [Lien 1](http://exemple.com) — description courte  
-- [Lien 2](http://exemple.com) — description courte  
+## Ressources
+- [Agile Alliance – Product Roadmap](https://www.agilealliance.org/glossary/product-roadmap)  
+- *Roman Pichler – Agile Product Roadmaps*  
+- *Scrum.org – Roadmap and Product Backlog*  
