@@ -1,8 +1,11 @@
 # Roadmap
 
 ## Définition
-La **roadmap** (feuille de route) est une représentation visuelle et temporelle des évolutions prévues pour un produit ou un projet.  
-Elle illustre les objectifs stratégiques, les grandes étapes et les livrables attendus, sans entrer dans un niveau de détail opérationnel comme le backlog.  
+
+La **roadmap** (feuille de route) est une représentation visuelle et temporelle de la stratégie et des grandes étapes de développement et des évolutions prévues pour un produit ou un projet.
+Elle illustre les **thèmes**, **epics** et objectifs stratégiques majeurs, les grandes étapes et les livrables attendus et permet de partager une vision commune avec les parties prenantes.  
+
+Contrairement au backlog, la roadmap donne une **vue d’ensemble stratégique** et non une liste détaillée des tâches.
 
 ---
 
@@ -11,6 +14,13 @@ Elle illustre les objectifs stratégiques, les grandes étapes et les livrables 
 - Aligner les parties prenantes sur les priorités et la direction.  
 - Faciliter la planification stratégique tout en restant adaptable.  
 - Communiquer les échéances et jalons importants.  
+
+## Règles
+- La roadmap doit refléter la **vision produit** à moyen et long terme.  
+- Elle se construit autour de **thèmes** et **epics**, qui sont ensuite déclinés dans le backlog.  
+- Elle est utilisée comme outil de **communication et alignement**, pas comme un plan rigide.  
+- La roadmap doit rester **flexible et adaptable** selon les retours utilisateurs et le contexte.  
+- Elle peut être complétée par des outils de pilotage comme les **burn-up charts** ou les **parking lot diagrams**.  
 
 ---
 
@@ -29,6 +39,12 @@ Caractéristiques importantes :
 ---
 
 ## Exemple
+
+- Thème : *Améliorer l’expérience mobile.*  
+- Epic : *Application mobile native pour iOS et Android.*  
+- Objectif : *Lancer une première version bêta avant fin T2.*  
+- Roadmap visuelle : un calendrier avec 3 jalons → *MVP mobile* → *Bêta test* → *Lancement public*.  
+
 **Roadmap produit simplifiée (application mobile) :**
 
 - **T1 2025** : Authentification par e-mail et mot de passe.  
@@ -44,6 +60,8 @@ Caractéristiques importantes :
 - Ne pas la mettre à jour quand les priorités changent.  
 - Ne pas l’aligner avec la vision produit.  
 - Vouloir figer toutes les dates dès le départ.  
+- Roadmap non partagée avec les parties prenantes.  
+- Absence de lien entre roadmap et backlog, créant un écart entre vision stratégique et travail opérationnel.  
 
 ---
 
