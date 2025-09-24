@@ -3,13 +3,11 @@
 Ce fichier décrit le chemin suivi dans mes formations.  
 Il permet de relier chaque **concept** ou **artefact** à une étape précise du parcours agile.  
 
-Vision → Besoin → Roadmap → Backlog → Release Backlog → Sprint Backlog → Sprint → Incrément → Review → Rétrospective → retour vers Backlog.
-
-> ajouter entre besoin et backlog la roadmap et entre le backlog et le sprint backlog le release backlog
+Vision → Besoin → Roadmap → Backlog → Sprint Backlog → Sprint → Incrément → Review → Rétrospective → retour au Backlog.
 
 ---
 
-## 1️⃣ Vision  
+## 1 Vision  
 
 - Définir le **pourquoi** du projet.  
 - Document : [Vision](./artefacts/vision.md)  
@@ -17,22 +15,13 @@ Vision → Besoin → Roadmap → Backlog → Release Backlog → Sprint Backlog
 
 ---
 
-## 2️⃣ Expression du besoin  
+## 2 Expression du besoin  
 
 - Recueillir les besoins des utilisateurs et parties prenantes.  
 - Document : [Expression du besoin](artefacts/expression-du-besoin.md)  
 
 ---
-
-## 3️⃣ Backlog produit  
-
-- Traduire les besoins en **User Stories**.  
-- Document : [Backlog](artefacts/backlog.md), [User Story](artefacts/user-story.md)  
-- Exemple : [user-story-exemple.md](outils/exemples/user-story-exemple.md)  
-
----
-
-## 4️⃣ Planification & Roadmap  
+## 3 Planification & Roadmap  
 
 - Construire une feuille de route du produit.  
 - Document : [Roadmap](artefacts/roadmap.md)  
@@ -40,7 +29,16 @@ Vision → Besoin → Roadmap → Backlog → Release Backlog → Sprint Backlog
 
 ---
 
-## 5️⃣ Cérémonies Scrum  
+## 4 Product Backlog  
+
+- Traduire les besoins en **User Stories**.  
+- Document : [Backlog](artefacts/backlog.md), [User Story](artefacts/user-story.md)  
+- Exemple : [user-story-exemple.md](outils/exemples/user-story-exemple.md)  
+
+---
+
+
+## 5 Cérémonies Scrum  
 
 - **Sprint Planning** → préparer le sprint  
 - **Daily Scrum** → synchronisation quotidienne  
@@ -51,7 +49,7 @@ Voir le dossier [ceremonies/](ceremonies)
 
 ---
 
-## 6️⃣ Amélioration continue  
+## 6 Amélioration continue  
 
 - Vérifier la **Definition of Done**  
 - Rétrospective régulière  
