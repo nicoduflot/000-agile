@@ -10,8 +10,8 @@ Contrairement au backlog, la roadmap donne une **vue d’ensemble stratégique**
 ---
 
 ## Objectif
-- Donner une vision claire et partagée de l’évolution du produit.  
 - Aligner les parties prenantes sur les priorités et la direction.  
+- Donner une vision claire et partagée de l’évolution du produit.  
 - Faciliter la planification stratégique tout en restant adaptable.  
 - Communiquer les échéances et jalons importants.  
 
