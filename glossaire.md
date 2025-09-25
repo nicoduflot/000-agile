@@ -50,7 +50,10 @@ Cadre de travail agile basé sur des rôles, artefacts et cérémonies.
 Itération de développement limitée dans le temps, généralement de 2 à 4 semaines.  
 
 **Scrum Master (SM)**  
-Facilitateur qui aide l’équipe Scrum à appliquer correctement le cadre.  
+Facilitateur qui aide l’équipe Scrum à appliquer correctement le cadre.
+
+**Sur-qualité**
+c’est produire quelque chose de **non demandé** ou **au-delà du besoin réel**, ce qui peut sembler positif mais génère du **coût, du délai ou de la complexité inutile**.
 
 ---
 

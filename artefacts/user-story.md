@@ -20,3 +20,4 @@ Une *User Story* est une description simple d’un besoin fonctionnel exprimé d
 
 ## Ressources complémentaires  
 - [Atlassian : Qu’est-ce qu’une User Story ?](https://www.atlassian.com/fr/agile/project-management/user-stories)  
+- [5 tips writing good user stories (Roman Pichler)](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)

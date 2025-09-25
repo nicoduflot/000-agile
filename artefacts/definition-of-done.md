@@ -1,63 +1,57 @@
-# [Nom de l’outil ou du concept]
+# Definition of Done (DoD)
 
 ## Définition
-[Décris en une ou deux phrases claires ce que c’est.]
+La **Definition of Done** (DoD) est une liste partagée et explicite de critères de qualité qu’un élément du backlog (user story, tâche, incrément) doit respecter pour être considéré comme réellement terminé.  
+Elle représente un engagement collectif de l’équipe de développement, du Product Owner et parfois des parties prenantes.
+
+DoD d’un incrément fait soit partie d’un standard dans l’entreprise, dans ce cas toutes les équipes scrum doivent la suivre a minima.
+
+Si ça n’est pas un standard dans l’entreprise, l’équipe scrum crée une DoD appropriée pour le produit.
 
 ---
 
-## Pourquoi c’est important ?
-- [Premier bénéfice]
-- [Deuxième bénéfice]
-- [Troisième bénéfice]
+## Objectif
+- Garantir une compréhension commune de ce que signifie *« fait »*.  
+- Améliorer la qualité des livrables en évitant les zones grises.  
+- Assurer l’homogénéité dans la livraison des incréments.  
+- Permettre de mesurer objectivement si une user story ou un sprint est terminé.
 
 ---
 
-## Rôle dans l’agilité  
-- À quoi ça sert ?  
-- Qui l’utilise ?  
-- Dans quelle phase ou cérémonie intervient-il ?  
+## Contenu
+Une Definition of Done peut inclure :
+- Code écrit, revu et intégré.  
+- Tests unitaires et fonctionnels automatisés exécutés avec succès.  
+- Documentation mise à jour.  
+- Déploiement possible en environnement de production.  
+- Respect des normes de sécurité, performance et conformité légale.  
+- Validation par le Product Owner ou via critères d’acceptation.  
 
----
-
-## Quand l’utiliser ?
-- [Moment ou contexte d’utilisation 1]
-- [Moment ou contexte d’utilisation 2]
-
----
-
-## Qui est impliqué ?
-- [Acteur 1 : rôle dans l’utilisation]
-- [Acteur 2 : rôle dans l’utilisation]
+> ⚠️ La DoD n’est pas figée : elle évolue avec la maturité de l’équipe et du produit.
 
 ---
 
 ## Exemple
-Mauvais exemple :  
-> [Exemple volontairement vague ou mal formulé]  
-
-Bon exemple :  
-> [Exemple précis, clair et vérifiable]  
-
----
-
-## Template associé  
-*(optionnel : lien vers `outils/templates/...`)*  
+**Definition of Done d’une équipe logicielle :**
+- Code relu par au moins 2 développeurs.  
+- Tests unitaires couvrant au moins 80 % du code.  
+- Tests d’intégration exécutés et validés.  
+- Documentation technique mise à jour.  
+- Story déployée en environnement de test.  
+- Aucun bug bloquant connu.  
 
 ---
 
 ## Erreurs fréquentes
-- [Erreur typique 1]
-- [Erreur typique 2]
-- [Erreur typique 3]
+- Avoir une DoD trop vague (ex. *« ça marche »*).  
+- Limiter la DoD uniquement à des critères techniques (ou uniquement métier).  
+- Ne pas l’adapter à la réalité de l’équipe et du produit.  
+- Ne pas la réviser régulièrement.  
+- Avoir plusieurs définitions concurrentes dans la même équipe.  
 
 ---
 
-## Pour aller plus loin
-- [Référence à un cadre ou une technique complémentaire]
-- [Lien vers un outil, modèle ou ressource externe]
-
----
-
-## Ressources complémentaires  
-- [Lien 1](http://exemple.com) — description courte  
-- [Lien 2](http://exemple.com) — description courte  
+## Ressources
+- [Scrum Guide – Definition of Done](https://scrumguides.org/scrum-guide.html#definition-of-done)  
+- *Agile Alliance – Definition of Done*  
+- *Scrum.org – DoD explained*  

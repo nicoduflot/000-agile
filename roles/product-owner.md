@@ -15,7 +15,7 @@ Il est le lien direct entre les parties prenantes (clients, utilisateurs, direct
 
 ---
 
-## Quand l’utiliser / impliquer  
+## Quand l’impliquer  
 - Dès le démarrage du projet (définition de la **Vision**).  
 - Tout au long du cycle de vie du produit (gestion du backlog, priorisation).  
 - Avant et pendant le **Sprint Planning**, pour clarifier les objectifs.  

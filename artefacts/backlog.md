@@ -1,4 +1,4 @@
-# Le Backlog
+# Le Product Backlog
 
 ## Définition
 Le **Product Backlog** est une liste ordonnée et évolutive de tout ce qui peut être nécessaire au produit.  

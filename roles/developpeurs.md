@@ -15,7 +15,7 @@ Ils possèdent toutes les compétences nécessaires pour transformer les éléme
 
 ---
 
-## Quand l’utiliser / impliquer  
+## Quand les impliquer  
 - Pendant le **Sprint Planning**, pour estimer et s’engager sur un objectif de sprint.  
 - Chaque jour lors du **Daily Scrum**, pour synchroniser l’avancement.  
 - À la **Sprint Review**, pour présenter le travail réalisé.  

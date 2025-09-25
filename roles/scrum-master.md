@@ -16,7 +16,7 @@ Il aide à appliquer correctement le cadre Scrum, supprime les obstacles et favo
 
 ---
 
-## Quand l’utiliser / impliquer  
+## Quand l’impliquer  
 - Dès le lancement du projet, pour mettre en place le cadre Scrum.  
 - Tout au long des sprints, pour faciliter et protéger l’équipe.  
 - Lors des cérémonies, en tant que facilitateur.  
