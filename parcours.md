@@ -1,15 +1,24 @@
-# Parcours Agile  
+# Parcours Agile   (Scrum)
 
-Ce fichier décrit le chemin suivi dans mes formations.  
-Il permet de relier chaque **concept** ou **artefact** à une étape précise du parcours agile.  
-
-Vision → Besoin → Roadmap → Product Backlog → Sprint Backlog → Sprint → Incrément → Review → Rétrospective → retour au Backlog.
+## Introduction
+Ce document sert de **carte de navigation** dans le cadre de l’agilité avec Scrum.  
+Il décrit le parcours type d’un produit, depuis la **vision initiale** jusqu’à la **livraison d’un incrément** en fin de sprint.  
+Chaque étape renvoie vers les artefacts et cérémonies associés afin de comprendre leur rôle dans la planification et l’exécution.
 
 ---
 
-## 1 Vision  
+## Vue d’ensemble (frise simplifiée)
 
-- Définir le **pourquoi** du projet.  
+Vision → Expression du besoin → Roadmap → Backlog produit → Sprint → Incrément
+
+---
+
+## Étapes du parcours
+
+### 1 Vision
+
+La **vision produit** donne le cap, définit la finalité et aligne les parties prenantes.
+
 - Document : [Vision](./artefacts/vision.md)  
 - Template : [vision-template.md](./outils/templates/vision-template.md)
 - Fichiers PDF : 
@@ -21,15 +30,17 @@ Vision → Besoin → Roadmap → Product Backlog → Sprint Backlog → Sprint 
 
 ---
 
-## 2 Expression du besoin  
+### 2 Expression du besoin  
 
-- Recueillir les besoins des utilisateurs et parties prenantes.  
+Le besoin est capturé et traduit en éléments compréhensibles pour l’équipe et le client.
+
 - Document : [Expression du besoin](./artefacts/expression-du-besoin.md)  
 
 ---
-## 3 Planification & Roadmap  
+### 3 Planification & Roadmap  
 
-- Construire une feuille de route du produit.  
+La roadmap planifie les grandes étapes et jalons du produit sur une échelle macro.
+
 - Document : 
     - [roadmap.md](./artefacts/roadmap.md)
     - [release.md](./artefacts/release.md)
@@ -41,7 +52,8 @@ Vision → Besoin → Roadmap → Product Backlog → Sprint Backlog → Sprint 
 
 ## 4 Product Backlog  
 
-- Traduire les besoins en **User Stories**.  
+Le backlog centralise, priorise et détaille l’ensemble des fonctionnalités ou améliorations.
+
 - Document : 
     - [Backlog](./artefacts/backlog.md), 
     - [User Story](./artefacts/user-story.md)
@@ -53,7 +65,6 @@ Vision → Besoin → Roadmap → Product Backlog → Sprint Backlog → Sprint 
 - Exemple : [user-story-exemple.md](./outils/exemples/user-story-exemple.md)  
 
 ---
-
 
 ## 5 + 1 Cérémonies Scrum  
 
