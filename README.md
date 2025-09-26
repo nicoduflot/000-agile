@@ -14,17 +14,40 @@ Ce dépôt est un travail en cours, la finalisation se fera au jour le jour. Une
 
 ## Parcours Agile  
 
-Voir le fichier [parcours.md](parcours.md) pour une vue d’ensemble du chemin suivi en formation.  
+Voir le fichier [parcours.md](parcours.md) pour une vue d’ensemble de l'agilité en projet Scrum.  
 
 ---
 
 ## Ressources disponibles  
 
-- **Rôles** : [Product Owner](roles/product-owner.md), [Scrum Master](roles/scrum-master.md), [Développeurs](roles/developpeurs.md)  
-- **Artefacts** : [Vision](artefacts/vision.md), [Backlog](artefacts/backlog.md), [User Story](artefacts/user-story.md), etc.  
-- **Cérémonies** : [Sprint Planning](ceremonies/sprint-planning.md), [Daily Scrum](ceremonies/daily-scrum.md), [Rétrospective](ceremonies/retrospective.md)  
-- **Outils** : [Templates](outils/templates), [Exemples](outils/exemples)  
-- **Checklists** : [PO](checklists/po-checklist.md), [SM](checklists/sm-checklist.md), [Équipe](checklists/equipe-checklist.md)  
+- **Rôles** : 
+    - [Product Owner](roles/product-owner.md)
+    - [Scrum Master](roles/scrum-master.md)
+    - [Développeurs](roles/developpeurs.md)  
+- **Artefacts** : 
+     - [Vision](artefacts/vision.md)
+     - [Expression du besoin](artefacts/expression-du-besoin.md)
+     - [Exigence](artefacts/exigence.md)
+     - [Roadmap](artefacts/roadmap.md)
+     - [Release](artefacts/release.md)
+     - [Backlog](artefacts/backlog.md)
+     - [User Story](artefacts/user-story.md), etc.  
+     - [Definition of done](artefacts/definition-of-done.md)
+     - [Syntaxe Gherkin](artefacts/gherkin.md), etc.  
+     - [Kanban du ready](artefacts/kanban-du-ready.md), etc.  
+- **Cérémonies** : 
+    - [Sprint Planning](ceremonies/sprint-planning.md)
+    - [Daily Scrum](ceremonies/daily-scrum.md)
+    - [Sprint review](ceremonies/sprint-review.md)  
+    - [Rétrospective](ceremonies/retrospective.md)  
+    - [Backlog refinement](ceremonies/backlog-refinement.md)  
+- **Outils** : 
+    - [Templates](outils/templates)
+    - [Exemples](outils/exemples)  
+- **Checklists** : 
+    - [PO](checklists/po-checklist.md)
+    - [SM](checklists/sm-checklist.md)
+    - [Équipe](checklists/equipe-checklist.md)  
 
 ---
 
