@@ -76,3 +76,13 @@ Vision → Besoin → Roadmap → Product Backlog → Sprint Backlog → Sprint 
     - [Definition of done](./artefacts/definition-of-done.md)
 - Rétrospective régulière  
 - Suivi des indicateurs de valeur  
+
+--- 
+
+## 7 Initialiser la conduite du changement
+
+- [Introduire l'agilité](./mise-en-place/introduire-agilite-entreprise.md)
+    - [Démarche](./mise-en-place/demarche-introduction.md)
+    - [Conduite du changement](./mise-en-place/conduite-du-changement.md)
+    - [Gestion de la résistance](./mise-en-place/gestion-resistance.md)
+    - [Contractualisation](./mise-en-place/contractualisation.md)
