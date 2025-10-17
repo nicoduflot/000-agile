@@ -1,0 +1,98 @@
+erDiagram
+    ZONE_FONCTIONNELLE ||--o{ EPIC : contient
+    EPIC ||--o{ ITEM : "se decompose en"
+    EPIC ||--o{ HISTORIQUE_EPIC : "a un historique"
+    UTILISATEUR ||--o{ HISTORIQUE_EPIC : modifie
+    UTILISATEUR ||--o{ COMMENTAIRE : redige
+    EPIC ||--o{ COMMENTAIRE : "possede des"
+    RELEASE ||--o{ EPIC : "inclut des"
+    
+    ZONE_FONCTIONNELLE {
+        int id_zone PK
+        varchar nom_zone UK
+        text description
+        int ordre_affichage
+        varchar couleur_hex
+        boolean actif
+        datetime date_creation
+        datetime date_modification
+    }
+    
+    EPIC {
+        int id_epic PK
+        int id_zone FK
+        int id_release FK
+        varchar nom_epic UK
+        text description
+        int items_completes
+        int items_total
+        enum statut "Non_demarre, En_cours, Termine, A_risque"
+        enum priorite "Basse, Moyenne, Haute, Critique"
+        date date_debut
+        date date_fin_prevue
+        date date_fin_reelle
+        text objectif_metier
+        boolean actif
+        datetime date_creation
+        datetime date_modification
+    }
+    
+    ITEM {
+        int id_item PK
+        int id_epic FK
+        varchar titre
+        text description
+        enum statut "A_faire, En_cours, Termine, Bloque"
+        int estimation_heures
+        int temps_passe
+        date date_debut
+        date date_fin
+        int id_assignee FK
+        datetime date_creation
+        datetime date_modification
+    }
+    
+    RELEASE {
+        int id_release PK
+        varchar nom_release UK
+        varchar version
+        date date_prevue
+        date date_effective
+        enum statut "Planifiee, En_cours, Terminee, Annulee"
+        text notes
+        datetime date_creation
+        datetime date_modification
+    }
+    
+    UTILISATEUR {
+        int id_utilisateur PK
+        varchar email UK
+        varchar nom
+        varchar prenom
+        varchar mot_de_passe_hash
+        enum role "Admin, Manager, Developpeur, Observateur"
+        boolean actif
+        datetime derniere_connexion
+        datetime date_creation
+    }
+    
+    HISTORIQUE_EPIC {
+        int id_historique PK
+        int id_epic FK
+        int id_utilisateur FK
+        enum champ_modifie "statut, items_completes, items_total, autre"
+        text ancienne_valeur
+        text nouvelle_valeur
+        text commentaire
+        datetime date_modification
+    }
+    
+    COMMENTAIRE {
+        int id_commentaire PK
+        int id_epic FK
+        int id_utilisateur FK
+        text contenu
+        boolean important
+        datetime date_creation
+        datetime date_modification
+    }
