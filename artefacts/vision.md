@@ -52,7 +52,7 @@ Bonne vision :
 
 ---
 
-Les outils [product vision board](./documents/vision/Romans-product-vision-board.pdf) et sa [version étendue](./documents/vision/Romans-Product-Vision-Board-Extended.pdf) permettent en une petite réunion et quelques questions d'établir les besoins ainsi que les périmètres métiers et business du demandeur.
+Les outils [product vision board](../documents/vision/Romans-product-vision-board.pdf) et sa [version étendue](../documents/vision/Romans-Product-Vision-Board-Extended.pdf) permettent en une petite réunion et quelques questions d'établir les besoins ainsi que les périmètres métiers et business du demandeur.
 
 Avec le contexte établi, il sera ensuite possible de créer des [personna](./documents/vision/Romans-persona-template.pdf), des personnages représentants les divers utilisateurs finaux de l'application.
 
@@ -62,3 +62,7 @@ En se servant ensuite de ces deux documents, on peut générer une [roadmap](./d
 
 La vision et la roadmap qui en découle est la première étape, primordiale, afin de démarrer la création du Product Backlog en priorisants la création des User Stories nécessaires à l'accomplissement de la première livraison.
 
+## Des ressources en ligne
+
+* [Elevator pitch : exemples pour réussir ses argumentaires commerciaux](https://www.magneticway.com/ventes/elevator-pitch/)
+- [Comment faire un bon elevator pitch? Voici 14 exemples et la structure idéale](https://asana.com/fr/resources/elevator-pitch-examples)
