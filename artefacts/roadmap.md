@@ -66,6 +66,6 @@ Caractéristiques importantes :
 ---
 
 ## Ressources
-- [Agile Alliance – Product Roadmap](https://www.agilealliance.org/glossary/product-roadmap)  
+- [Agile Alliance – Product Roadmap](https://agilealliance.org/all-you-need-to-know-about-product-roadmaps-a-hands-on-guide/)  
 - [Product roadmap](../documents/planification/Romans-Product_Road_Map.pdf) *Roman Pichler – Agile Product Roadmaps*  
 - *Scrum.org – Roadmap and Product Backlog*  
