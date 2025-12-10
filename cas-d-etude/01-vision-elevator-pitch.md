@@ -8,4 +8,4 @@ L’objectif : créer un service public culturel fluide, collaboratif et accessi
 
 ## lean Canvas
 
-|Segmentation de la cible<br > early adopters|Les problématiques<br />Les alternatives existantes|Les Solutions|Avantage concurentiel|Proposition unique de valeur<br /> Le concept de haut niveau|Métriques|Cannaux|Coûts|Revenus|
+>le lean canvas existe mais il doit être adapté en .md
