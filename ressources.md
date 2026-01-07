@@ -37,6 +37,8 @@
 
 ### Sprint review
 * [Summerizing progress with parking lot diagrams](./documents/pilotage/summarizing_progress_with_parking_lot_diagrams.pdf)
+* [What is Parking lot](https://www.wrike.com/agile-guide/faq/what-is-parking-lot-in-agile/)
+* [Parking Lot Diagram](https://insideproduct.co/parking-lot-diagram/)
 
 ### Sprint retrospective
 
