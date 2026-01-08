@@ -42,3 +42,7 @@ Il aide à appliquer correctement le cadre Scrum, supprime les obstacles et favo
 - [Scrum.org – Professional Scrum Master](https://www.scrum.org/roles/scrum-master)  
 - [Scrum Alliance – Scrum Master](https://www.scrumalliance.org/)  
 - [Open Assessment - entraînement préconisé par srcum.org pour la certification PSM1](https://www.scrum.org/open-assessments/scrum-open)
+- [PSM 1 practice for certification](https://www.thescrummaster.co.uk/assessments/professional-scrum-master-i-psm-i-practice-assessment/)
+- [SM learning mode](https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode/)
+- [Entraînement avec des quizz 01](itexams.com)
+- [Entraînement avec des quizz 01](examtopics.com)
