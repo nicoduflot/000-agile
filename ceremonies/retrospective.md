@@ -53,3 +53,5 @@ Méthode **Start / Stop / Continue** :
 ## Ressources
 - [Scrum Guide – Sprint Retrospective](https://scrumguides.org/)  
 - *Agile Retrospectives – Esther Derby & Diana Larsen*  
+- [Agile games france - webring de ressources de serious games](https://www.agilegamesfrance.fr/doku.php?id=jeux)
+- [Open serious games](https://openseriousgames.org/)
