@@ -40,3 +40,5 @@ Il est le lien direct entre les parties prenantes (clients, utilisateurs, direct
 - [Scrum Guide – Rôle du Product Owner](https://scrumguides.org/)  
 - [Atlassian – Qu’est-ce qu’un Product Owner ?](https://www.atlassian.com/fr/agile/product-management/product-owner)  
 - [Scrum.org – Professional Scrum Product Owner](https://www.scrum.org/roles/product-owner)  
+- [How I Prepared For And Passed The PSPO I Assessment](https://www.scrum.org/forum/scrum-forum/34348/how-i-prepared-and-passed-pspo-i-assessment)
+- [Product Owner Open - Préparation à la certification PSPO 1 sur scrum/org](https://www.scrum.org/open-assessments/product-owner-open)

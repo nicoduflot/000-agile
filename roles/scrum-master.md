@@ -41,3 +41,4 @@ Il aide à appliquer correctement le cadre Scrum, supprime les obstacles et favo
 - [Scrum Guide – Rôle du Scrum Master](https://scrumguides.org/)  
 - [Scrum.org – Professional Scrum Master](https://www.scrum.org/roles/scrum-master)  
 - [Scrum Alliance – Scrum Master](https://www.scrumalliance.org/)  
+- [Open Assessment - entraînement préconisé par srcum.org pour la certification PSM1](https://www.scrum.org/open-assessments/scrum-open)

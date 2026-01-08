@@ -39,3 +39,4 @@ Ils possèdent toutes les compétences nécessaires pour transformer les éléme
 ## Ressources complémentaires  
 - [Scrum Guide – Rôle des Développeurs](https://scrumguides.org/)  
 - [Scrum.org – Developers](https://www.scrum.org/resources/who-are-developers)  
+- [Developper Open - préparation à la certification PSD 1 sur scrum.org ](https://www.scrum.org/open-assessments/scrum-developer-open)
