@@ -59,5 +59,6 @@
 
 * [Process communication](https://www.kcf.fr/quest-ce-que-le-process-communication-model/)
 * [Process communication](https://www.institut-repere.com/info/process-communication-6-types-personnalite/)
+* [Accident sur la lune](https://www.electeursenherbe.fr/wp-content/uploads/2018/05/1LaPriseDeDecisionCollective_fichier_test-de-la-nasa.pdf)
 
 >vérifier test process com
