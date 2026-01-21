@@ -54,3 +54,10 @@
 ### Certifications
 
 * [Comment j'ai passé la PSPO](https://www.scrum.org/forum/scrum-forum/34348/how-i-prepared-and-passed-pspo-i-assessment)
+
+### Communication
+
+* [Process communication](https://www.kcf.fr/quest-ce-que-le-process-communication-model/)
+* [Process communication](https://www.institut-repere.com/info/process-communication-6-types-personnalite/)
+
+>vérifier test process com
