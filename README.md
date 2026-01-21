@@ -129,3 +129,6 @@ Voir le fichier [ressources.md](./ressources.md)
     ├── scrum-master.md
     └── developpeurs.md
 ```
+
+### TD
+* [Mini projet appli mobile](./2026-01-21-mini-projet.md)
