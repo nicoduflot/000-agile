@@ -1,8 +1,8 @@
-# Étude de cas : Métdiathèque inter-communale
+# Étude de cas : Médiathèque inter-communale
 
 ## Demande
 
-Une mairie a soulis la demande suivante : 
+Une mairie a soumis la demande suivante : 
 
 >Une médiathèque inter-communale a besoin d’un site internet qui pourra permettre la réservation d’œuvres et aussi devenir une plateforme d’échange d’œuvres entre les habitants des 5 communes de la communauté de communes.
 >Cette médiathèque prévoit du « click and collect » ainsi que la procuration de collecte pour les personnes à mobilité réduite.
