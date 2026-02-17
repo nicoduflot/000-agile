@@ -37,6 +37,16 @@ Un backlog peut contenir :
 - Des améliorations de performance ou de sécurité.  
 - De la documentation ou des travaux de support.  
 
+|Type d’élément|	Description|	Exemple|
+|----|---|----|
+|User Story	|Description d’un besoin utilisateur formulé du point de vue de l’utilisateur.|	« En tant qu’utilisateur, je veux recevoir une alerte avant expiration de mon abonnement. »|
+|Epic|	Regroupe plusieurs user stories autour d’un thème fonctionnel.|	Gestion des notifications|
+|Bug / correctif|	Problème à corriger pour assurer la stabilité du produit.|	Bouton « s’inscrire » inactif sur mobile|
+|Tâche technique	|Élément non visible de l’utilisateur mais nécessaire au fonctionnement.|	Migration de la base de données|
+|Spikes / recherches|	Exploration technique ou UX pour réduire les incertitudes.	|Étudier l’API de Stripe pour le paiement récurrent|
+
+Source : [Product backlog : définition simple pour comprendre les bases](https://maestro.mariaschools.com/post/product-backlog)
+
 Chaque élément du backlog (Product Backlog Item ou PBI) devrait comporter :
 - Un titre ou résumé.  
 - Une description claire.  
