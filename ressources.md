@@ -62,3 +62,8 @@
 * [Accident sur la lune](https://www.electeursenherbe.fr/wp-content/uploads/2018/05/1LaPriseDeDecisionCollective_fichier_test-de-la-nasa.pdf)
 
 >vérifier test process com
+
+### Kanban étendu
+
+- [Kanban portefolio pt 1](https://pablopernot.fr/2016/01/portfolio-projets-kanban-partie-1/)
+- [Kanban portefolio pt 2](https://pablopernot.fr/2016/02/portfolio-projets-kanban-partie-2/)
