@@ -35,8 +35,8 @@ La courbe Actual ne pourra jamais redescendre, car tout ce qui est produit (SP) 
 
 1. Cette courbe peut redescendre :
 
-Nettoyage de backlog (Baclog grooming) : il peut être parfois considéré comme une boîte à idée et une
-petite révision permet de retirer les items obsolètes ou qui ne seront jamais réalisé. Ce genre de
+Nettoyage de backlog (Backlog grooming ou backlog refinement) : il peut être parfois considéré comme une boîte à idée et une
+petite révision permet de retirer les items obsolètes ou qui ne seront jamais réalisés. Ce genre de
 « nettoyage » arrive fréquemment quand la courbe Total monte beaucoup plus vite que l’Actual,
 phénomène fréquent où les demandes affluent plus vite que la capacité à produire.
 
@@ -67,5 +67,5 @@ Un burn-up chart projet montre :
 ---
 
 ## Ressources
-- [Agile Alliance – Burn-up Chart](https://www.agilealliance.org/glossary/burn-up-chart)  
-- *Scrum.org – Tracking progress with burn-up*  
+- [Scrum.org – Tracking progress with burn-up](https://resources.scrumalliance.org/Article/use-burn-up-chart-scrum-team)
+- [Scrum.org : forecasting techniques](https://www.scrum.org/resources/forecasting-techniques)
