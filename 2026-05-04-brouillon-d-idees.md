@@ -4,7 +4,31 @@
 
 **Application e-commerce Produits**
 
+**Exemple gestion BDD des produits divers**
 
+![Schema exemple de produits en BDD](./documents/schema_ameliore_eav.svg)
+
+### Premier schema
+
+**Ce qui fonctionne bien**
+C'est simple à implémenter, facile à comprendre, et très flexible : ajouter une caractéristique "couleur" à un chargeur ne demande aucune migration, juste une nouvelle ligne. L'```ordre_affichage``` est une bonne idée pour l'UI.
+
+**Les limites à anticiper**
+Le typage des valeurs est la principale fragilité. Le champ ```valeur``` est probablement un ```VARCHAR```, ce qui signifie que ```7``` (numérique) et ```"Bleu nuit"``` (texte) cohabitent dans la même colonne. Trier ou filtrer sur "RAM ≥ 4 Go" devient alors une requête tordue avec un ```CAST```.
+La cohérence des noms n'est pas garantie. Rien n'empêche d'avoir "ram", "RAM", "Mémoire RAM" pour la même caractéristique sur des produits différents — ce qui casse les filtres et comparaisons.
+La comparaison entre produits (ex. "tous les smartphones avec écran > 6 pouces") nécessite un ```WHERE nom_caracteristique = 'Taille d\'écran' AND CAST(valeur AS DECIMAL) > 6``` — fonctionnel mais fragile.
+
+**L'amélioration minimale recommandée**
+Séparer la définition de la caractéristique de sa valeur, ce qui résout le problème de cohérence et de typage en une seule table supplémentaire
+
+### Deuxième schéma
+
+**Ce que ça change concrètement**
+Avec ```caract_definitions```, le nom "Taille d'écran" n'existe qu'une seule fois (lié à la catégorie "smartphone"), et chaque produit référence cette définition par son ```id```. Résultat :
+
+* Filtrer "écran > 6 pouces" devient fiable car ```data_type = 'numeric'``` indique à votre appli comment interpréter la valeur
+* Ajouter la catégorie "casque audio" = insérer ses définitions ("impédance", "réponse en fréquence"…) sans toucher au reste
+* L'```ordre_affichage``` migre dans ```caract_definitions``` (il est logique par catégorie, pas par produit)
 
 ## Samir
 
