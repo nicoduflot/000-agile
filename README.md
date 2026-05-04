@@ -132,3 +132,6 @@ Voir le fichier [ressources.md](./ressources.md)
 
 ### TD
 * [Mini projet appli mobile](./2026-01-21-mini-projet.md)
+
+### TD
+* [mettre en mots ses idées](./2026-05-04-brouillon-d-idees.md)
