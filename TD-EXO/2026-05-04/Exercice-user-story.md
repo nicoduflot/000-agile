@@ -52,7 +52,8 @@ Test(s) fonctionnel(s)
 
     Résultat et post condition(s)
     Exemple : 
-    il est redirigé vers la page de résumé de la transaction où figure le lien vers une facture pdf téléchargeable
+    il est redirigé vers la page de résumé de la transaction 
+    où figure le lien vers une facture pdf téléchargeable
 
 ## Corrections proposées
 
@@ -68,8 +69,10 @@ Test(s) fonctionnel(s)
 **AFIN DE**
 
     pouvoir accéder à mon compte
+---
 
 **Test(s) d’acceptation**
+
 **ÉTANT DONNÉ QUE**
 
     un visiteur possédant un compte avec l’identifiant superBernard59
@@ -88,6 +91,8 @@ Test(s) fonctionnel(s)
     On refuse la connexion 
     ET un message d’alerte s’affiche indiquant 
     « Un problème lié aux identifiants empêche la connexion »
+
+---
 
 **ÉTANT DONNÉ QUE**
 
@@ -120,6 +125,8 @@ Test(s) fonctionnel(s)
     voir les nouveautés 
     ET de pouvoir accéder rapidement à la fiche d’œuvre d’une des œuvres présentées
 
+---
+
 **Test(s) d’acceptation**
 **ÉTANT DONNÉ QUE**
 
@@ -135,6 +142,8 @@ Test(s) fonctionnel(s)
 	- Superunknown (CD)
 	- L’attaque des titans (n°50)
 	- JuJu tsu Kaizen (n°20)
+
+---
 
 **ÉTANT DONNÉ QUE**
 
@@ -166,6 +175,8 @@ Test(s) fonctionnel(s)
         - catégorie(s), 
         - galerie de médias associés 
 
+---
+
 **Test(s) d’acceptation**
 
 **ÉTANT DONNÉ QUE**
@@ -184,6 +195,7 @@ Test(s) fonctionnel(s)
         - Auteur : « Frank thilliez »
         - mais pas la galerie de média associée (pas de média associé)
 
+---
 
 **ÉTANT DONNÉ QUE**
 
@@ -212,6 +224,8 @@ Test(s) fonctionnel(s)
 **AFIN DE**
     pouvoir la réserver depuis sa fiche d’œuvre
 
+---
+
 **Test(s) d’acceptation**
 
 **ÉTANT DONNÉ QUE**
@@ -226,6 +240,7 @@ Test(s) fonctionnel(s)
     on confirme la disponibilité de l’œuvre 
     ET on la réserve pour enlèvement
 
+---
 
 **ÉTANT DONNÉ QUE**
 
@@ -254,6 +269,8 @@ Test(s) fonctionnel(s)
     
     voir une liste d’œuvres correspondant à ma recherche
 
+---
+
 **Test(s) d’acceptation**
 
 **ÉTANT DONNÉ QUE**
@@ -268,6 +285,7 @@ Test(s) fonctionnel(s)
     - deux livres 
     - deux films
 
+---
 
 **ÉTANT DONNÉ** 
     
@@ -293,6 +311,8 @@ Test(s) fonctionnel(s)
     
     voir une liste d’œuvres correspondant à ma recherche
 
+---
+
 **Test(s) d’acceptation**
 
 **ÉTANT DONNÉ QUE**
@@ -305,6 +325,8 @@ Test(s) fonctionnel(s)
     
     on me propose la liste des œuvres ayant ce titre
     (20 romans, un roman graphique et deux guides)
+
+---
 
 **ÉTANT DONNÉ**
     
