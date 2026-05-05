@@ -38,8 +38,8 @@ Créer un site de vente de jeux-vidéos physique, à prix réduits, proposants d
 Garanties de livraison rapide (contrat exceptionnel avec un distributeur)
 
 ### Cible / clientèle prioritaire
-* Gamers
-* Joueurs posèdant au moins un PC ou une console
+* Gamers (Early adopters)
+* Joueurs posèdant au moins un PC ou une console (Majorité active)
 
 **Problèmes rencontrés par les cibles**
 * Prix important pour jouer à des jeux récents ou des anciens jeux populaires
