@@ -17,8 +17,9 @@ THEN : Alors... Résultat de l'action
 
 **Exemple : Payer par carte**
 
-**ÉTANT DONNÉ QU**'un utlisateur Duflot Nicolas renseigne
+**ÉTANT DONNÉ QUE**
 
+    un utlisateur Duflot Nicolas renseigne
     Son numéro de carte **********
     ET Le détenteur de la carte : DUFLOT
     ET Le trigramme de la carte : ***
