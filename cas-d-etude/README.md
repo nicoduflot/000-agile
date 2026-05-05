@@ -16,3 +16,4 @@ Suivant la méthode agile, on lance la phase initiale :
 2. [Impact mapping](./02-impact-mapping.md)
 3. [Story mapping](./03-story-mapping.md)
 4. [Roadmap](./04-roadmap.md)
+5. [Backlog préliminaire première livraison](./05-backlog-preliminaire.md)
