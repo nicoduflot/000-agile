@@ -18,14 +18,19 @@ THEN : Alors... Résultat de l'action
 **Exemple : Payer par carte**
 
 **ÉTANT DONNÉ QU**'un utlisateur Duflot Nicolas renseigne
+
     Son numéro de carte **********
     ET Le détenteur de la carte : DUFLOT
     ET Le trigramme de la carte : ***
+
 **QUAND**
+
     il clique sur "valider le paiement"
     il reçoit une notification sur son smartphone pour la vérification en deux étapes
     et qu'il réussi la certification
+
 **ALORS**
+
     il est redirigé vers la page de résumé de la transaction où figure le lien vers une facture pdf téléchargeable
 
 ## Notes / Contexte  
