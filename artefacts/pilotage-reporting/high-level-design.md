@@ -44,5 +44,5 @@ Pour une plateforme e-commerce :
 ---
 
 ## Ressources
-- *Scaled Agile Framework – Architectural Runway*  
-- *Domain-Driven Design (DDD) – Context mapping*  
+- *[Scaled Agile Framework – Architectural Runway](https://framework.scaledagile.com/architectural-runway/)*  
+- *[Domain-Driven Design (DDD) – Context mapping](https://www.infoq.com/articles/ddd-contextmapping/)*  
