@@ -45,4 +45,6 @@ Le PO ajoute 2 nouvelles stories au backlog.
 
 ## Ressources
 - [Scrum Guide – Sprint Review](https://scrumguides.org/)  
-- *Scrum.org – Sprint Review explained*  
+- [Scrum.org – What is a Sprint Review](https://www.scrum.org/resources/what-is-a-sprint-review)  
+- [Scrum.org – Introdiction to the Sprint Review](https://www.scrum.org/learning-series/sprint-review/)  
+- [Scrum alliance – What is a Sprint Review](https://resources.scrumalliance.org/Article/sprint-review)  
