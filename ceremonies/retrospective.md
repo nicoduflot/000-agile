@@ -55,3 +55,5 @@ Méthode **Start / Stop / Continue** :
 - *Agile Retrospectives – Esther Derby & Diana Larsen*  
 - [Agile games france - webring de ressources de serious games](https://www.agilegamesfrance.fr/doku.php?id=jeux)
 - [Open serious games](https://openseriousgames.org/)
+- [Agile Tools](https://agile-tools.fr/)
+- [Agile burger Quizz](https://agile-tools.fr/burger-agile-quiz-v2-2/)
